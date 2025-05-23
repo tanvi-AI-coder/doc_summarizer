@@ -1,0 +1,8 @@
+streamlit
+transformers
+beautifulsoup4
+requests
+python-dotenv
+PyPDF2
+python-docx
+pdfplumber
